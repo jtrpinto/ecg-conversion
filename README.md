@@ -1,4 +1,4 @@
-# ecg-conversion
+# ECG Interlead Conversion  
 
 Code for interlead conversion of ECG signals.
 
